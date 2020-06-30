@@ -1,0 +1,19 @@
+{
+  "name": "hm",
+  "version": "1.0.5",
+  "description": "Hypen Series AppWrapper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "A",
+    "Mobile",
+    "Wrapper",
+    "for",
+    "Hyphen",
+    "Applications"
+  ],
+  "author": "Sathya S Sheelan",
+  "license": "MIT"
+}
